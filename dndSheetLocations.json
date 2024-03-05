@@ -1,0 +1,65 @@
+{
+    "header": {
+        "characterName": "C6",
+        "classes" : "T5",
+        "race" : "T7",
+        "playerName": "AE5",
+        "level": "AL6"
+    }, 
+    "abilityScores": {
+    	"str":"C15",
+    	"dex":"C20",
+    	"con":"C25",
+    	"int":"C30",
+    	"wis":"C35",
+    	"cha":"C40"
+    },
+    "abilityModifiers": {
+    	"str":"C13",
+    	"dex":"C18",
+    	"con":"C23",
+    	"int":"C28",
+    	"wis":"C33",
+    	"cha":"C38"
+    },
+    "proficiencyBonus": "H14",
+    "savingThrows": {
+    	"str":"I17",
+    	"dex":"I18",
+    	"con":"I19",
+    	"int":"I20",
+    	"wis":"I21",
+    	"cha":"I22"
+    },
+    "skills": {
+    	"Acrobatics":"I25",
+    	"Animal Handling":"I26",
+    	"Arcana":"I27",
+    	"Athletics":"I28",
+    	"Deception":"I29",
+    	"History":"I30",
+    	"Insight":"I31",
+    	"Intimidation":"I32",
+    	"Investigation":"I33",
+    	"Medicine":"I34",
+    	"Nature":"I35",
+    	"Perception":"I36",
+    	"Performance":"I37",
+    	"Persuasion":"I38",
+    	"Religion":"I39",
+    	"Sleight of Hand":"I40",
+    	"Stealth":"I41",
+    	"Survival":"I42"
+    },
+    "combat": {
+	    "AC": "R12",
+	    "initiative": "V12",
+	    "speed": "Z12",
+	    "hitPointMax": "U16",
+	    "currentHitPoints": "R17",
+	    "temporaryHitPoints": "R21",
+	    "condition": "U20",
+	    "hitDice": "R25"
+    }
+
+}
